@@ -3,7 +3,7 @@
 
 // Adding ads
 ads = document.createElement("script");
-ads.src = "/js/ads.js";
+ads.src = "https://newsandstory.herokuapp.com/cdn/js/ads.js";
 document.body.appendChild(ads);
 
 
